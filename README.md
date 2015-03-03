@@ -1,2 +1,2 @@
 # RandomNumbersGenerator
-Generates lists of random numbers. Useful for testing purposes.
+A useful testing tool that generates lists of random integers.
