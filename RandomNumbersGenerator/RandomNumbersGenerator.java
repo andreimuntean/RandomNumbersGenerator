@@ -32,13 +32,13 @@ public class RandomNumbersGenerator
     }
 
     /**
-     * Returns a list of random integers.
+     * Generates a list of random integers.
      *
      * @param smallest The smallest integer that can appear in the list. Inclusive.
      * @param highest The highest integer that can appear in the list. Inclusive.
      * @param count The number of integers in the list.
      * 
-     * @return A list of random numbers.
+     * @return A list of random integers.
      */
     public ArrayList<Integer> generate(int smallest, int highest, int count)
     {
