@@ -13,7 +13,7 @@ public class RandomNumbersGenerator
     private long seed;
 
     /**
-     * Constructs a RandomNunbersGenerator object.
+     * Constructs a RandomNumbersGenerator object.
      */
     public RandomNumbersGenerator()
     {
@@ -21,7 +21,7 @@ public class RandomNumbersGenerator
     }
 
     /**
-     * Constructs a RandomNumbersGenerator with the specified seed.
+     * Constructs a RandomNumbersGenerator object with the specified seed.
      *
      * @param seed A seed.
      */
